@@ -5,8 +5,7 @@
 - 💼 Participating in CodeCircuit Hackathon — currently building a draggable sticky notes app with category-based filtering.
 - 💞️ I’m looking to collaborate on fun frontend-focused projects or open source tools that help developers.
 - 📫 How to reach me: [LinkedIn]() | [Portfolio]() | dev.ankurawat@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I create cool projects based on dares and ideas from my friends — even my crush has challenged me! 😅
+
 
 
 <!---
