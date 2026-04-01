@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced React patterns, animation libraries, and system design for scalable apps.
 - 💼 Participating in CodeCircuit Hackathon — currently building a draggable sticky notes app with category-based filtering.
 - 💞️ I’m looking to collaborate on fun frontend-focused projects or open source tools that help developers.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/0hcoder) | [Portfolio]() | dev.ankurawat@gmail.com
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/0hcoder) | [Portfolio](www.0hcoder.vercel.app) | dev.ankurawat@gmail.com
 
 
 
